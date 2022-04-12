@@ -1,0 +1,15 @@
+/Users/pest/Desktop/лекция 1/bin/Debug/net6.0/лекция 1
+/Users/pest/Desktop/лекция 1/bin/Debug/net6.0/лекция 1.deps.json
+/Users/pest/Desktop/лекция 1/bin/Debug/net6.0/лекция 1.runtimeconfig.json
+/Users/pest/Desktop/лекция 1/bin/Debug/net6.0/лекция 1.dll
+/Users/pest/Desktop/лекция 1/bin/Debug/net6.0/ref/лекция 1.dll
+/Users/pest/Desktop/лекция 1/bin/Debug/net6.0/лекция 1.pdb
+/Users/pest/Desktop/лекция 1/obj/Debug/net6.0/лекция 1.csproj.AssemblyReference.cache
+/Users/pest/Desktop/лекция 1/obj/Debug/net6.0/лекция 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pest/Desktop/лекция 1/obj/Debug/net6.0/лекция 1.AssemblyInfoInputs.cache
+/Users/pest/Desktop/лекция 1/obj/Debug/net6.0/лекция 1.AssemblyInfo.cs
+/Users/pest/Desktop/лекция 1/obj/Debug/net6.0/лекция 1.csproj.CoreCompileInputs.cache
+/Users/pest/Desktop/лекция 1/obj/Debug/net6.0/лекция 1.dll
+/Users/pest/Desktop/лекция 1/obj/Debug/net6.0/ref/лекция 1.dll
+/Users/pest/Desktop/лекция 1/obj/Debug/net6.0/лекция 1.pdb
+/Users/pest/Desktop/лекция 1/obj/Debug/net6.0/лекция 1.genruntimeconfig.cache
